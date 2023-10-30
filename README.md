@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @pavithradileep
 - 👀 I’m interested in  Python django Web Development ..
 - 🌱 I’m currently  working on my project 
-- 💞️ I’m looking to collaborate on ... django developer ..
+- 💞️ I’m looking to collaborate on .. working . django  ..
  [- 📫 How to reach me
  pavithradileep12@gmail .com
               is  my email address ..and .
