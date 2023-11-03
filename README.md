@@ -1,3 +1,7 @@
+![bg](https://github.com/pavithradileep/pavithradileep/assets/137876673/0bf8fef9-3b92-4df5-a66c-195b2e435298)
+
+
+
 
 - 👋 Hi, I’m @pavithradileep
 - 👀 I’m interested in  Python django Web Development ..
