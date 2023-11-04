@@ -6,7 +6,7 @@
 - 👋 Hi, I’m @pavithradileep
 - 👀 I’m interested in  Python django Web Development ..
 - Interested in Front End Developement
-- 🌱 I’m currently  working on my project 
+- 🌱 I’m currently  working on project on  e-commerce
 - 💞️ I’m looking to collaborate on .. working .  as python django  developer ..
 - 
  [- 📫 How to reach me
