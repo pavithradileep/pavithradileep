@@ -14,4 +14,4 @@
 ](https://www.linkedin.com/in/pavithra-dileep-0435bb291/)
       
  is my linkedin profile
-  and  pavithradileep12@gmail.com is my e-mail address
+
