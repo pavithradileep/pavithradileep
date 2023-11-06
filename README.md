@@ -5,15 +5,12 @@
 
 - 👋 Hi, I’m @pavithradileep
 - 👀 I’m interested in  Python django Web Development ..
-- Interested in Front End Developement
-- 🌱 I’m currently  working on project on  e-commerce
-- 💞️ I’m looking to collaborate on .. working .  as python django  developer ..
+- Interested in Front End Developement as  well as Back End Development 
+- 🌱 I’m currently  working on project on  e-commerce on puthon-django
+-  💞️ I’m looking to collaborate on .. working .  as python django  developer ..
 - 
  [- 📫 How to reach me
-
- pavithradileep12@gmail .com  '
- 
- is  my email address . and .
-
+ pavithradileep12@gmail.com  '
+          is  my email address . and .
 ](https://www.linkedin.com/in/pavithra-dileep-0435bb291/)
-is my linked in profile
+      is my linkedin profile
