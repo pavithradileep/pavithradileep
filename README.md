@@ -6,9 +6,14 @@
 - 👋 Hi, I’m @pavithradileep
 - 👀 I’m interested in  Python django Web Development ..
 - Interested in Front End Developement as  well as Back End Development 
-- 🌱 I’m currently  working on project on  e-commerce on python-django
+- 🌱 I’m currently  working on project on  E-commerce on python-django
 -  💞️ I’m looking to collaborate on .. working .  as python django  developer ..
+
+- MY TECH  SKILLS :
+- ![html](https://github.com/pavithradileep/pavithradileep/assets/137876673/cf2ead1a-de51-4f59-88e7-77b6e09a2c64)
 - 
+
+
  [- 📫 How to reach me
 
 ](https://www.linkedin.com/in/pavithra-dileep-0435bb291/)
