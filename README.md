@@ -10,7 +10,12 @@
 -  💞️ I’m looking to collaborate on .. working .  as python django  developer ..
 
 - MY TECH  SKILLS :
-- ![html](https://github.com/pavithradileep/pavithradileep/assets/137876673/cf2ead1a-de51-4f59-88e7-77b6e09a2c64)
+- ![html](https://github.com/pavithradileep/pavithradileep/assets/137876673/52a970ed-fb7e-4033-ab3d-e47719ba2884)
+- ![CSS3_logo_](https://github.com/pavithradileep/pavithradileep/assets/137876673/2ca271e1-68a2-4688-b19c-4c462c5c8a01)
+- ![js](https://github.com/pavithradileep/pavithradileep/assets/137876673/c27ad57f-d5fe-4606-acb4-d8a4ba713023)
+
+
+
 - 
 
 
