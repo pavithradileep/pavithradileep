@@ -10,7 +10,9 @@
 -  💞️ I’m looking to collaborate on .. working .  as python django  developer ..
 
 - MY TECH  SKILLS :
-  HTML ,CSS,JavaScript,Python
+        Front_End : HTML ,CSS,JavaScript,
+        Back-End :  Python,django
+        Database :  MySQL
 
 
 - 
