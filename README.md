@@ -8,10 +8,11 @@
 - MY TECH  SKILLS :
   - Front_End :
   - HTML ,CSS,JavaScript  
-    - Back-End :  Python,django   
+  - Back-End :  Python,django   
   -Database :  MySQL,SQL,PostgreSQL
+  -other languages : php,java.c,c++
 
  [- 📫 How to reach me
-(https://www.linkedin.com/in/pavithra-dileep-0435bb291/)
-      is my linkedin profile ]
+         (https://www.linkedin.com/in/pavithra-dileep-0435bb291/)
+              is my linkedin profile ]
 
