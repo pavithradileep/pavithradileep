@@ -3,12 +3,12 @@
 - 👋 Hi, I’m @pavithradileep
 - 👀 I’m interested in  Python django Web Development ..
 -  I'm Passionate in Front End Developement and Back End Development 
-- 🌱 I’m currently  working on a project 
+- 🌱 I’m currently  Discovering Django 
 -  💞️ I’m looking to collaborate on .. working .as python django  developer ..
 - MY TECH  SKILLS :
   - Front_End :
-  - HTML ,CSS,JavaScript  
-  - Back-End :  Python,django   
+  - HTML ,CSS,JavaScript ,Bootstrap 
+  - Back-End : Python,django   
   -Database :  MySQL,SQL,PostgreSQL
   -other languages : php,java.c,c++
 
