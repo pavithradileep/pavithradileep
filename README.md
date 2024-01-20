@@ -7,7 +7,8 @@
 -  💞️ I’m looking to collaborate on .. working .as python django  developer ..
 - MY TECH  SKILLS :
   - Front_End :
-  - HTML ,CSS,JavaScript ,Bootstrap 
+  - C:\Users\Nandu\OneDrive\Desktop\Python-01 (2).png
+  - HTML ,CSS,JavaScript 
   - Back-End : Python,django   
   -Database :  MySQL,SQL,PostgreSQL
   -other languages : php,java.c,c++
