@@ -6,9 +6,9 @@
 - 🌱 I’m currently  Discovering Django 
 -  💞️ I’m looking to collaborate on .. working .as python django  developer ..
 - MY TECH  SKILLS :
-  - Front_End : HTML ,CSS,JavaScript 
-  - Back-End : Python,django   
-  -Database :  MySQL,SQL,PostgreSQL
+   - Front_End : HTML ,CSS,JavaScript 
+   - Back-End : Python,django   
+   -Database :  MySQL,SQL,PostgreSQL
    - Programming languages : php,java.c,c++
 
  [- 📫 How to reach me
