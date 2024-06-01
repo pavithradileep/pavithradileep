@@ -6,10 +6,14 @@
 - 🌱  I’m currently  Developing My Work in Django
 -  💞️   I’m looking to collaborate on .. working .as  BackEnd Developer in Python
 - MY TECH  SKILLS :
-              - Front_End : HTML ,CSS,JavaScript 
-              - Back-End : Python,django
-               - Database :  MySQL,SQL,PostgreSQL
-               - Programming languages : PHP,Java,C++,C
+
+   - Front_End : HTML ,CSS,JavaScript
+  
+  - Back-End : Python,django
+  - 
+  - Database :  MySQL,SQL,PostgreSQL
+
+    - Programming languages : PHP,Java,C++,C
 
  [- 📫 How to reach me
          (https://www.linkedin.com/in/pavithra-dileep-0435bb291/)
