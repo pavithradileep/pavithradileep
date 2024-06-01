@@ -16,6 +16,5 @@
  [- 📫 How to reach me
          (https://www.linkedin.com/in/pavithra-dileep-0435bb291/)
               is my linkedin profile  
-              and  pavithradileep12@gmail.com  is my email address  
-               7025084475 is my Contact Number ]
+              and  pavithradileep12@gmail.com  is my email address  ]
 
