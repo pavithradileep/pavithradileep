@@ -10,10 +10,8 @@
    - Front_End : HTML ,CSS,JavaScript
   
   - Back-End : Python,django
-  - 
   - Database :  MySQL,SQL,PostgreSQL
-
-    - Programming languages : PHP,Java,C++,C
+  - Programming languages : PHP,Java,C++,C
 
  [- 📫 How to reach me
          (https://www.linkedin.com/in/pavithra-dileep-0435bb291/)
