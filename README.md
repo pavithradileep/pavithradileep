@@ -15,8 +15,7 @@ I'm Passionate in Back End Development with Python
 
 💞️ I’m looking to collaborate on .. working .as  BackEnd Developer in Python
 
-![Static Badge](https://img.shields.io/badge/Technologies-%20black?style=for-the-badge)
-Tech Stacks :
+![Static Badge](https://img.shields.io/badge/TechStack-%20black?style=for-the-badge)
 
 ![Static Badge](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&labelColor=black)   ![Static Badge](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&labelColor=darkgreen)
 
