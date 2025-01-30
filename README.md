@@ -27,6 +27,13 @@ I'm Passionate in Back End Development with Python
 
 ![Static Badge](https://img.shields.io/badge/c%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&labelColor=black) ![Static Badge](https://img.shields.io/badge/C%20Programming%20-%2300599C?style=for-the-badge&logo=c&labelColor=black)
 
+Database :-
+
+![Static Badge](https://img.shields.io/badge/MySQL-database?logoColor=mustard%20yellow&labelColor=blue&color=orange)
+
+![Static Badge](https://img.shields.io/badge/SQL-databas%20blue%20color?color=blue)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-database?labelColor=blue%20white&color=blue)
+
 
 
 
